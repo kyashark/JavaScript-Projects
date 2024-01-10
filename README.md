@@ -1,2 +1,2 @@
-# JavaScript-Begginer-Projects
+# JavaScript begginer projects
  
